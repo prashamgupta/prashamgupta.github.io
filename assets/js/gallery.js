@@ -200,12 +200,7 @@ var market = [
         src: 'images/marketing/9.png',
         w: 2000,
         h: 1125
-    },
-    {
-        src: 'images/marketing/10.png',
-        w: 2000,
-        h: 1125
-    },
+    }
 ];   
 
 var cartoon = [
