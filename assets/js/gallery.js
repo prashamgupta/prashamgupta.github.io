@@ -27,6 +27,11 @@ var digitalPaintings = [
         h: 869
     },
     {
+        src: 'images/digital/13.png',
+        w: 2041,
+        h: 1170
+    },
+    {
         src: 'images/digital/3.png',
         w: 1500,
         h: 758
@@ -76,11 +81,7 @@ var digitalPaintings = [
         w: 600,
         h: 600
     },
-    {
-        src: 'images/digital/13.png',
-        w: 2041,
-        h: 1170
-    },
+    
 ];
 
 var printDesigns = [
