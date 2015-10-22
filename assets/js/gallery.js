@@ -17,6 +17,11 @@ var pswpElement = document.querySelectorAll('.pswp')[0];
 
 var digitalPaintings = [
     {
+        src: 'images/digital/14.png',
+        w: 1000,
+        h: 682
+    },
+    {
         src: 'images/digital/1.png',
         w: 1000,
         h: 682
