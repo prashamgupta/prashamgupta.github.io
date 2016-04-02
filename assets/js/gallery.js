@@ -18,8 +18,18 @@ var pswpElement = document.querySelectorAll('.pswp')[0];
 var digitalPaintings = [
     {
         src: 'images/digital/14.jpg',
+        w: 1500,
+        h: 962
+    },
+    {
+        src: 'images/digital/15.jpg',
         w: 1000,
-        h: 682
+        h: 741
+    },
+    {
+        src: 'images/digital/16.jpg',
+        w: 1500,
+        h: 947
     },
     {
         src: 'images/digital/1.png',
@@ -111,27 +121,39 @@ var printDesigns = [
         h: 727
     },
     {
-        src: 'images/print/5.png',
-        w: 878,
-        h: 508
+        src: 'images/print/5.jpg',
+        w: 2000,
+        h: 1125
     },
     {
-        src: 'images/print/6.png',
-        w: 878,
-        h: 508
+        src: 'images/print/6.jpg',
+        w: 2116,
+        h: 1125
     },
     {
-        src: 'images/print/7.png',
-        w: 878,
-        h: 508
+        src: 'images/print/7.jpg',
+        w: 1164,
+        h: 1125
     },
     {
         src: 'images/print/8.png',
         w: 878,
         h: 508
     },
-    {
         src: 'images/print/9.png',
+        w: 878,
+        h: 508
+    },
+        src: 'images/print/10.png',
+        w: 878,
+        h: 508
+    },
+        src: 'images/print/11.png',
+        w: 878,
+        h: 508
+    },
+    {
+        src: 'images/print/12.png',
         w: 547,
         h: 563
     },
