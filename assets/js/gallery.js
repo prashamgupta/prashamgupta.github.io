@@ -165,24 +165,9 @@ var printDesigns = [
 
 var sketch = [
     {
-        src: 'images/sketches/1.jpg',
-        w: 1000,
-        h: 1178
-    },
-    {
-        src: 'images/sketches/2.jpg',
-        w: 1000,
-        h: 1397
-    },
-    {
-        src: 'images/sketches/3.jpg',
-        w: 1000,
-        h: 1167
-    },
-    {
-        src: 'images/sketches/4.jpg',
-        w: 1000,
-        h: 1321
+        src: 'images/sketches/website.jpg',
+        w: 4000,
+        h: 3766
     },
 ];    
 
@@ -231,7 +216,7 @@ var market = [
         src: 'images/marketing/9.png',
         w: 2000,
         h: 1125
-    }
+    },
 ];   
 
 var cartoon = [
