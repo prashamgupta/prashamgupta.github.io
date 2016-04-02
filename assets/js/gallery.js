@@ -140,14 +140,17 @@ var printDesigns = [
         w: 878,
         h: 508
     },
+    {   
         src: 'images/print/9.png',
         w: 878,
         h: 508
     },
+    {  
         src: 'images/print/10.png',
         w: 878,
         h: 508
     },
+    {   
         src: 'images/print/11.png',
         w: 878,
         h: 508
