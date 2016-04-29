@@ -126,6 +126,11 @@ var printDesigns = [
         h: 1125
     },
     {
+        src: 'images/print/13.jpg',
+        w: 2000,
+        h: 1125
+    },
+    {
         src: 'images/print/6.jpg',
         w: 2116,
         h: 1125
@@ -164,6 +169,11 @@ var printDesigns = [
 ];
 
 var sketch = [
+    {
+        src: 'images/sketches/dashboard.jpg',
+        w: 5986,
+        h: 3766
+    },
     {
         src: 'images/sketches/website.jpg',
         w: 4000,
@@ -274,10 +284,15 @@ var cartoon = [
 
 var logos = [
     {
+        src: 'images/logo/6.jpg',
+        w: 858,
+        h: 527
+    },
+    {
         src: 'images/logo/1.jpg',
         w: 478,
         h: 299
-    }, 
+    },  
     {
         src: 'images/logo/2.jpg',
         w: 478,
