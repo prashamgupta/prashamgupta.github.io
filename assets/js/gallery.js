@@ -171,8 +171,8 @@ var printDesigns = [
 var sketch = [
     {
         src: 'images/sketches/dashboard.jpg',
-        w: 5986,
-        h: 3766
+        w: 2000,
+        h: 1258
     },
     {
         src: 'images/sketches/website.jpg',
