@@ -102,24 +102,24 @@ var digitalPaintings = [
 var printDesigns = [
     {
         src: 'images/print/1.png',
-        w: 1000,
-        h: 571
+        w: 1800,
+        h: 1089
     },
     {
         src: 'images/print/2.png',
-        w: 1000,
-        h: 571
+        w: 1800,
+        h: 1089
     },
     {
         src: 'images/print/3.png',
-        w: 1500,
-        h: 727
+        w: 1800,
+        h: 1089
     },
-    {
+    /*{
         src: 'images/print/4.png',
         w: 1500,
         h: 727
-    },
+    },*/
     {
         src: 'images/print/5.jpg',
         w: 2000,
